@@ -1,4 +1,5 @@
 ## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himanshu Sachan!
+![](https://komarev.com/ghpvc/?username=h01sachan&color=blue)
 <br>
 I am a passionate Backend Developer 🌐 , Competitive Programmer and ML Enthusiast🤖.I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br>
