@@ -7,8 +7,7 @@ I am a passionate Backend Developer 🌐 , Competitive Programmer and ML Enthusi
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **FaceRecognition**
-- 🌱 &nbsp; I’m currently learning Machine Learning; 
+- 🌱 &nbsp; I’m currently exploring Devops; 
 - 📫 &nbsp; How to reach me **sachan.himanshu2001@gmail.com**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/himanshu-sachan-92636a191/)
